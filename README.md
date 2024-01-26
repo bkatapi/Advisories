@@ -7,5 +7,5 @@
   
 
 ------
-Baptista KATAPI (s0ba)
-pentester | vulnerability researcher
+Baptista KATAPI (s0ba)  
+pentester | vulnerability research 
