@@ -9,5 +9,5 @@
   
 
 ------
-Baptista KATAPI (s0ba)  
+Baptista KATAPI
 pentester | vulnerability research 
